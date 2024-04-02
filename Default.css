@@ -22,6 +22,8 @@ hr{
 #test1{
     position: absolute; top:100px; left:400px;
     background-color: palegreen;
-    padding:50px
-   B
+    padding:50px;
+    border-style:groove;
+    border-color: blueviolet;
+   
 }
