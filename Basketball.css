@@ -1,9 +1,16 @@
 h1{
     position: absolute; left: 500px;
     color: skyblue;
-    font-size: 25px;
+    font-size: 35px;
 }
 
 body{
     background-color: rgb(154, 154, 238);
 }
+
+h2{
+    color: white;
+    font-size: 18px;
+    
+}
+  
