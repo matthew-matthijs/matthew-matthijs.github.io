@@ -2,6 +2,8 @@ h1{
     position: absolute; left: 500px;
     color: skyblue;
     font-size: 35px;
+    padding: 10px;
+    border-color: navy;
 }
 
 body{
@@ -11,6 +13,14 @@ body{
 h2{
     color: white;
     font-size: 18px;
+    position: absolute; left: 500px; top: 150;
     
 }
+
+p1{
+color: white ;
+}
   
+image{
+    position: absolute; left: 500; top:250;
+}
