@@ -1,4 +1,4 @@
-h1{
+#Title{
     position: absolute; left: 500px;
     color: skyblue;
     font-size: 35px;
@@ -11,15 +11,17 @@ body{
     background-color: rgb(154, 154, 238);
 }
 
-h2{
+#Info{
     color: white;
     font-size: 18px;
-    position: absolute; left: 500px; top: 250;
+  position: absolute 500px; top: 350px;
     
 }
 
-h3{
+h4{
 color: white ;
+position:absolute; left: 500px; top: 750px;
+
 }
   
 img{
