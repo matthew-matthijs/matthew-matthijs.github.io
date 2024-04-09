@@ -25,5 +25,9 @@ position:absolute; left: 500px; top: 750px;
 }
   
 img{
-    position: absolute; left: 500; top:250;
+    position: absolute; left: 500px; top:250px;
+}
+
+Link{
+    position:absolute; left: 300px; top: 600px
 }
