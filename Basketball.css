@@ -4,6 +4,7 @@ h1{
     font-size: 35px;
     padding: 10px;
     border-color: navy;
+    position: absolute;left: 500px; top: 100px;
 }
 
 body{
@@ -13,11 +14,11 @@ body{
 h2{
     color: white;
     font-size: 18px;
-    position: absolute; left: 500px; top: 150;
+    position: absolute; left: 500px; top: 250;
     
 }
 
-p1{
+h3{
 color: white ;
 }
   
