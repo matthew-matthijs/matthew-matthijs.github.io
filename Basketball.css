@@ -1,9 +1,9 @@
 h1{
-    position: absolute; top: 200px;left: 400px;
+    position: absolute; left: 500px;
     color: skyblue;
     font-size: 25px;
 }
 
 body{
-    background-color: navy;
+    background-color: rgb(154, 154, 238);
 }
